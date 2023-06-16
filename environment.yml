@@ -1,0 +1,26 @@
+dependencies:
+    - bokeh<2.5
+    - dask
+    - distributed
+    - fsspec
+    - ipykernel
+    - ipywidgets
+    - joblib
+    - numba
+    - numpy
+    - pandas
+    - pip
+    - panel==0.14.3
+    - pyarrow
+    - python>=3.8
+    - scipy
+    - scikit-learn
+    - tqdm
+    - pip:
+        - adlfs
+        - hdbscan
+        - loky
+        - python-dotenv
+        - thisnotthat
+        - umap-learn
+        - zstandard
