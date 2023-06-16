@@ -1,2 +1,7 @@
-# scipy2023-virtual-poster
-Code for "virtual poster" presented at SciPy 2023
+Set up:
+
+```sh
+mamba env create -p .conda-env
+conda activate ./.conda-env
+python -m ipykernel install --user --name scipy2023 --display-name 'Scipy 2023'
+```
