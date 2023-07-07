@@ -1,11 +1,12 @@
 dependencies:
     - bokeh<2.5
     - dask
-    - distributed
+    - distributed!=2023.6.0
     - fsspec
     - ipykernel
     - ipywidgets
     - joblib
+    - networkx
     - numba
     - numpy
     - pandas
