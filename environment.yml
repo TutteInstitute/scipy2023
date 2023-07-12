@@ -1,3 +1,4 @@
+name: commonplace-detection-optc
 dependencies:
     - bokeh<2.5
     - dask
