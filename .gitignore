@@ -162,3 +162,12 @@ cython_debug/
 # Dotenv
 .env
 
+# Local files
+optc/
+*z
+manifest.json
+*.bak
+
+# Conda environment, local
+.conda-env/
+
