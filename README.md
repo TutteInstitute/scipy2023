@@ -36,7 +36,7 @@ We present here two notebooks:
 Click this: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tutteinstitute/scipy2023/HEAD?labpath=02%20Interactive%20visualization.ipynb)
 
 The setup takes 15-20 minutes.
-Once the notebook is open, select the **Run** menu, and click **Run all**.
+Once the notebook is open, select the **Run** menu, and click **Run All Cells**.
 Zip to the end of the notebook while some nuts get crunched:
 within a minute, you will be enjoying the visualization tool.
 
